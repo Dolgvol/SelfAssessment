@@ -150,51 +150,51 @@
   - Polyfill u
   - Interpreter k
   - Linker h
-  - Dynamic linking 
+  - Dynamic linking
   - Static linking
-  - Runtime 
-  - Virtual machine
+  - Runtime h
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
-  - Containerization
+  - Containerization h
   - Debugger u
   - Tracing
   - Garbage collection k
   - Refactoring u
   - Code review u
   - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
-  - Kubernetes
-  - GCC
-  - LLVM
+  - Unittesting h
+  - git e
+  - Github e
+  - Docker h
+  - Kubernetes h
+  - GCC u
+  - LLVM h
 - Antipatterns
   - Magic numbers
-  - Hard code
-  - Soft code
+  - Hard code u
+  - Soft code u
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti u
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Duplicate code k
+  - Premature optimization k
+  - Micro-optimization k
+  - Nested loops u
+  - Long method/function/procedure u
+  - Long inheritance u
+  - Large class/file u
+  - Too many parameters u
+  - Pass-through parameters u
   - Accumulate and fire
-  - Use switch/case
-  - Temporary field
+  - Use switch/case u
+  - Temporary field u
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
   - Data clump
@@ -222,18 +222,18 @@
   - Real-time OS 
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
-  - IANA
+  - IANA h
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 h
+  - ECMA h
   - ICANN
   - ISO
-  - MIME
+  - MIME h
   - OWASP
-  - UTF-8
-  - W3C
+  - UTF-8 h
+  - W3C h
   - ODMG

@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js k
+  - Stateful and stateless servers h
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Event loop phases h
+  - Event loop microtasks and macrotasks h
+  - Garbage collection k
+  - Node.js LTS schedule 
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules h
+  - ECMAScript modules h
+  - Module `node:module` h
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons h
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments h
+  - Node.js CLI k
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch h
 - Internal API
-  - Streams API
+  - Streams API h
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici h
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer`
+  - Blob, File, Buffer, module `node:buffer` h
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API u
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) u
   - TCP/SSL
   - UDP
   - TLS
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST u
   - RPC
   - Routing
   - DoS
@@ -84,22 +84,22 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection
+  - SQL injection h
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
+  - Logging h
   - Application configuring
-  - Testing
-  - CI/CD
+  - Testing h
+  - CI/CD h
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer
-  - Console
+  - Buffer h
+  - Console h
   - Inspector
 - Data access
   - Data access layer
