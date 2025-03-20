@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -11,8 +11,8 @@
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases
-  - Column databases
+  - Object databases u
+  - Column databases u
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -25,9 +25,9 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Primary keys h
+  - Foreign keys h
+  - Transactions u
   - Views
   - Subqueries
   - Stored procedures
@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` k
+  - `INSERT` k
+  - `UPDATE` k
+  - `DELETE` k
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` k
+  - `GROUP BY` k
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
-  - `LEFT JOIN`
-  - `RIGHT JOIN`
+  - `JOIN` k
+  - `INNER JOIN` k
+  - `LEFT JOIN` k
+  - `RIGHT JOIN` k
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` k
   - `LIKE`
-  - `IN`
-  - `BETWEEN`
-  - `CREATE TABLE`
+  - `IN` k
+  - `BETWEEN` k
+  - `CREATE TABLE` k
   - `ALTER TABLE`
-  - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
+  - `DROP TABLE` k
+  - `PRIMARY KEY` h
+  - `FOREIGN KEY` h
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL k
   - Oracle
-  - MySQL
-  - MariaDB
+  - MySQL k
+  - MariaDB k
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB k
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
-  - Firebase
+  - Firebase u
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
+  - Big data h
+  - Data analysis h
+  - AI tools h
+  - Cloud databases h
   - Data Visualization
