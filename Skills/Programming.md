@@ -231,7 +231,7 @@
   - Base64 h
   - ECMA h
   - ICANN
-  - ISO
+  - ISO h
   - MIME h
   - OWASP
   - UTF-8 h
