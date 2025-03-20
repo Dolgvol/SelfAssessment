@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types k
+  - Data types: 🎓 known
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -11,8 +11,8 @@
   - Key-value store
   - Tuple store
   - Graph databases
-  - Object databases u
-  - Column databases u
+  - Object databases: 🖐️ used
+  - Column databases: 🖐️ used
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
@@ -25,9 +25,9 @@
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
-  - Foreign keys h
-  - Transactions u
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
+  - Transactions: 🖐️ used
   - Views
   - Subqueries
   - Stored procedures
@@ -36,31 +36,31 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` k
-  - `INSERT` k
-  - `UPDATE` k
-  - `DELETE` k
+  - `SELECT`: 🎓 known
+  - `INSERT`: 🎓 known
+  - `UPDATE`: 🎓 known
+  - `DELETE`: 🎓 known
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` k
-  - `GROUP BY` k
+  - `ORDER BY`: 🎓 known
+  - `GROUP BY`: 🎓 known
   - `HAVING`
   - `EXISTS`
-  - `JOIN` k
-  - `INNER JOIN` k
-  - `LEFT JOIN` k
-  - `RIGHT JOIN` k
+  - `JOIN`: 🎓 known
+  - `INNER JOIN`: 🎓 known
+  - `LEFT JOIN`: 🎓 known
+  - `RIGHT JOIN`: 🎓 known
   - `UNION`
   - `DISTINCT`
-  - `WHERE` k
+  - `WHERE`: 🎓 known
   - `LIKE`
-  - `IN` k
-  - `BETWEEN` k
-  - `CREATE TABLE` k
+  - `IN`: 🎓 known
+  - `BETWEEN`: 🎓 known
+  - `CREATE TABLE`: 🎓 known
   - `ALTER TABLE`
-  - `DROP TABLE` k
-  - `PRIMARY KEY` h
-  - `FOREIGN KEY` h
+  - `DROP TABLE`: 🎓 known
+  - `PRIMARY KEY`: 👂 heard
+  - `FOREIGN KEY`: 👂 heard
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
@@ -70,25 +70,25 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL k
+  - PostgreSQL: 🎓 known
   - Oracle
-  - MySQL k
-  - MariaDB k
+  - MySQL: 🎓 known
+  - MariaDB: 🎓 known
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB k
+  - MongoDB: 🎓 known
   - Memcached
   - Riak
   - DB2
-  - SQLite h
+  - SQLite: 👂 heard
   - DynamoDB
-  - Firebase u
+  - Firebase: 🖐️ used
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
   - Data Visualization

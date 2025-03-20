@@ -2,98 +2,98 @@
 
 - Application structure
   - Separation of concerns
-  - Inversion of Control h
-  - Dependency Injection h
+  - Inversion of Control: 👂 heard
+  - Dependency Injection: 👂 heard
   - GoF Creational
   - GoF Structural
   - GoF Behavioral
-  - GRASP h
-  - SOLID k
+  - GRASP: 👂 heard
+  - SOLID: 🎓 known
   - CQS
-  - Modularity h
-  - Subsystems h
-  - Directories h
+  - Modularity: 👂 heard
+  - Subsystems: 👂 heard
+  - Directories: 👂 heard
   - Leaking abstractions
-  - Multiparadigm code k
+  - Multiparadigm code: 🎓 known
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
-  - Framework-agnostic h
+  - Framework-agnostic: 👂 heard
   - Code coverage
   - Cohesion
-  - Coupling h
+  - Coupling: 👂 heard
   - Cyclomatic complexity
   - Reliability
   - Quality
   - Availability
-  - Flexibility h
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer u
-  - Domain-specific language (DSL) u
-  - System vs applied code u
-  - Multilayer approach u
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🖐️ used
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming h
-  - Inversion of control (IoC) h
-  - Dependency injection (DI) h
-  - Clean architecture h
-  - Domain-driven design (DDD) h
-  - Pub/sub h
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
+  - Domain-driven design (DDD): 👂 heard
+  - Pub/sub: 👂 heard
   - Message brocker
-  - Agent h
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
-  - CQRS k
+  - CQRS: 🎓 known
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
-  - Budget estimation h
-  - Distributed systems h
+  - Budget estimation: 👂 heard
+  - Distributed systems: 👂 heard
   - High-intensive computing
   - Load balancing
-  - Gateways h
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless u
+  - Serverless: 🖐️ used
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions h
-  - Solution capabilities h
-  - System design h
-  - Process modelling h
-  - Data modelling h
-  - Solution components h
-  - Risk assessment h
-  - Non Functional Requirements (NFR) h
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
   - Clouds
   - BPMN
-  - Low-code k
-  - No-code k
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs u
-  - Enterprise strategy h
-  - Integration with subsystems h
-  - Enterprise vision h
-  - Enterprise capabilities h
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
   - Project scope
   - Enterprise service bus
-  - Service-oriented architecture h
-  - Microservices h
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -101,5 +101,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance h
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
