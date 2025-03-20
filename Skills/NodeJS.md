@@ -1,24 +1,24 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js k
-  - Stateful and stateless servers h
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and blocking code
-  - Event loop phases h
-  - Event loop microtasks and macrotasks h
-  - Garbage collection k
-  - Node.js LTS schedule 
+  - Event loop phases: 👂 heard
+  - Event loop microtasks and macrotasks: 👂 heard
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules h
-  - ECMAScript modules h
-  - Module `node:module` h
+  - CommonJS modules: 👂 heard
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 👂 heard
   - Caching in CJS and ESM
-  - Modules as singletons h
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,14 +26,14 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments h
-  - Node.js CLI k
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
-  - Watch filesystem changes with --watch h
+  - Watch filesystem changes with --watch: 👂 heard
 - Internal API
-  - Streams API h
+  - Streams API: 👂 heard
   - Web Streams API
   - Crypto API
   - Password hashing with crypto.scrypt
@@ -42,7 +42,7 @@
   - Copy folder recursively
   - Worker threads
   - Performance hooks
-  - Native fetch and nodejs/undici h
+  - Native fetch and nodejs/undici: 👂 heard
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -57,7 +57,7 @@
   - Module `node:url` vs `new URL`
   - Module `node:assert`
   - Internationalization
-  - Blob, File, Buffer, module `node:buffer` h
+  - Blob, File, Buffer, module `node:buffer`: 👂 heard
   - Module `node:zlib`
 - Network
   - Endpoint throttling
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API u
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - HTTP(S) u
+  - HTTP(S): 🖐️ used
   - TCP/SSL
   - UDP
   - TLS
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST u
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -84,22 +84,22 @@
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection h
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging h
+  - Logging: 👂 heard
   - Application configuring
-  - Testing h
-  - CI/CD h
+  - Testing: 👂 heard
+  - CI/CD: 👂 heard
   - Readable
   - Writable
   - Transform
   - Back pressure
-  - Buffer h
-  - Console h
+  - Buffer: 👂 heard
+  - Console: 👂 heard
   - Inspector
 - Data access
   - Data access layer
