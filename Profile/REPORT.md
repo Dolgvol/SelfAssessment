@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-453&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-459&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-453&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-459&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square)](https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-453&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square"></a>
+<a href="https://github.com/Dolgvol/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-459&nbsp;/&nbsp;686&nbsp;/&nbsp;736-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -30,8 +30,8 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Language | `57` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `19` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `6` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `9` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `13` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `6` | `6` |
 | [Async](/Skills/Async.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `9` | `20` |
@@ -67,13 +67,8 @@
 
 | To start asynchronous programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
-| Mixins | 🤷 unknown | ⟶  | 🎓 known |
-| `Proxy` | 👂 heard | ⟶  | 🎓 known |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `67` of `72` skills, `5` to be upgraded, and `30` above needed
+Total: you have `72` of `72` skills, `0` to be upgraded, and `31` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -87,17 +82,11 @@ Total: you have `67` of `72` skills, `5` to be upgraded, and `30` above needed
 | `yield` | 🎓 known | ⟶  | 🖐️ used |
 | Property descriptors | 👂 heard | ⟶  | 🎓 known |
 | Sealing properties | 👂 heard | ⟶  | 🎓 known |
-| Typed arrays | 🤷 unknown | ⟶  | 🎓 known |
-| Mixins | 🤷 unknown | ⟶  | 👂 heard |
-| `Proxy` | 👂 heard | ⟶  | 🎓 known |
 | `Reflect` | 👂 heard | ⟶  | 🎓 known |
 | `Atomics` | 🤷 unknown | ⟶  | 👂 heard |
-| `WeakRef` | 🤷 unknown | ⟶  | 👂 heard |
-| `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
-| Timers | 🤷 unknown | ⟶  | 🖐️ used |
 | V8 | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `79` of `98` skills, `19` to be upgraded, and `17` above needed
+Total: you have `85` of `98` skills, `13` to be upgraded, and `19` above needed
 
 ## [Async](/Skills/Async.md)
 

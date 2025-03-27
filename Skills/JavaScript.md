@@ -95,11 +95,11 @@
   - `Set`: 🖐️ used
   - `WeakMap`: 🎓 known
   - `WeakSet`: 🎓 known
-  - Typed arrays
-  - Mixins
+  - Typed arrays: 🖐️ used
+  - Mixins: 🖐️ used
   - `Object.assign`: 🖐️ used
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
+  - `Proxy`: 🎓 known
   - `RegExp`: 🖐️ used
   - `Date`: 🖐️ used
   - `Math`: 🖐️ used
@@ -107,15 +107,15 @@
   - `Error`: 🖐️ used
   - `Atomics`
   - `JSON`: 🖐️ used
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
+  - `WeakRef`: 👂 heard
+  - `FinalizationRegistry`: 👂 heard
+  - `Intl`: 👂 heard
   - `Promise`: 🖐️ used
   - `console`: 🖐️ used
-  - Timers
+  - Timers: 🖐️ used
 - Infrastructure
   - V8: 🎓 known
-  - Node.js: 🎓 known
+  - Node.js: 🖐️ used
   - npm: 🙋 explained
   - prettier: 🙋 explained
   - MDN: 🖐️ used
