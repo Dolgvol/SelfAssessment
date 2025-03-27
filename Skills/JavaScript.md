@@ -90,33 +90,33 @@
   - `Function.prototype.apply`: 🖐️ used
   - `return`: 🖐️ used
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `WeakMap`: 🎓 known
-  - `WeakSet`: 🎓 known
-  - Typed arrays
-  - Mixins
-  - `Object.assign`: 🖐️ used
+  - `Array` u
+  - `Map` u
+  - `Set` u
+  - `WeakMap` k
+  - `WeakSet` k
+  - Typed arrays u
+  - Mixins u
+  - `Object.assign` u
 - Standard classes and namespaces
-  - `Proxy`: 👂 heard
-  - `RegExp`: 🖐️ used
-  - `Date`: 🖐️ used
-  - `Math`: 🖐️ used
-  - `Reflect`: 👂 heard
-  - `Error`: 🖐️ used
+  - `Proxy` k
+  - `RegExp` u
+  - `Date` u
+  - `Math` u
+  - `Reflect` h
+  - `Error` u
   - `Atomics`
-  - `JSON`: 🖐️ used
-  - `WeakRef`
-  - `FinalizationRegistry`
-  - `Intl`
-  - `Promise`: 🖐️ used
-  - `console`: 🖐️ used
-  - Timers
+  - `JSON` u
+  - `WeakRef` h
+  - `FinalizationRegistry` h
+  - `Intl` h
+  - `Promise` u
+  - `console` u
+  - Timers u
 - Infrastructure
-  - V8: 🎓 known
-  - Node.js: 🎓 known
-  - npm: 🙋 explained
-  - prettier: 🙋 explained
-  - MDN: 🖐️ used
-  - TC39: 🖐️ used
+  - V8 k
+  - Node.js u
+  - npm e
+  - prettier e
+  - MDN u
+  - TC39 u
